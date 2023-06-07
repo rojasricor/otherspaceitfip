@@ -1,0 +1,18 @@
+{
+    "name": "spaceitfip/spaceitfip",
+    "description": "Sóftware para préstamos y retiros de elementos y/o espacios físicos - ITFIP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mauren Gómez",
+            "email": "correo@itfip.edu.co"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\SpaceItfip\\Controladores\\": "app/SpaceItfip/Controladores/"
+        }
+    },
+    "require": {}
+}
